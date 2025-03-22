@@ -14,7 +14,8 @@ A fun and interactive web project using **HTML, CSS, and JavaScript**. When you 
 3. Watch colorful bubbles appear with random messages  
 
 ##  Preview  
-![video](./Screen%20Recording%202025-03-23%20021509.mp4)
+![imag](./Screenshot%202025-03-23%20022039.png)
+![imag](./Screenshot%202025-03-23%20022219.png)
  
 
 Enjoy the animation! 
